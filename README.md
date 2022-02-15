@@ -22,7 +22,7 @@
 
 ## 學習資源 :
 
-[恐龍本練習題](https://www.os-book.com/OS9/practice-exer-dir/7-web.pdf)
-[Three Easy Pieces](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese)
-[Modern Maker : 從那些 Maker 的大小事看 Linux 核心](https://ithelp.ithome.com.tw/users/20129818/ironman/3852)
+[恐龍本練習題](https://www.os-book.com/OS9/practice-exer-dir/7-web.pdf)  
+[Three Easy Pieces](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/chinese)  
+[Modern Maker : 從那些 Maker 的大小事看 Linux 核心](https://ithelp.ithome.com.tw/users/20129818/ironman/3852)  
 [Berkely CS162](https://cs162.org/)
